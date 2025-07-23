@@ -17,4 +17,4 @@ Query parameters:
 - `last_name`
 
 Both are optional, so you can search for one or the other. 
-Returns policies matching either name. At least one query parameter is required.
+Returns policies matching either name.
