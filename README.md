@@ -13,7 +13,8 @@ A very simple Fastify API to search insurance policies by customer first or last
 ### GET /search
 
 Query parameters:
-- `first_name` (optional)
-- `last_name` (optional)
+- `first_name`
+- `last_name`
 
+Both are optional, so you can search for one or the other. 
 Returns policies matching either name. At least one query parameter is required.
